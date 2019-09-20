@@ -3,32 +3,11 @@ body{
 background-color: lightblue;
 }
 
-p{
-
-    border-top-style: dotted;
-
-}
-
-h1{
-
+header {
+    padding: 60px;
     text-align: center;
-
-}
-
-h2{
-
-    text-align:center
-
-}
-
-h3{
-
-    text-align:center
-
-}
-
-p{
-
-    font-size: 20px;
+    background: #labc9c
+        color: white;
+        font-size: 30px;
 
 }
