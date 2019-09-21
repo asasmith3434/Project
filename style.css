@@ -22,9 +22,8 @@ div{
 
 
  }
-person_image {
-    width: 20%;
-    height: auto;
+img {
+  border-radius: 8px;
 }
 
 notes{  border: 1px solid darkblue;
