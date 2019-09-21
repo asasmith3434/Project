@@ -28,7 +28,8 @@ img {
     width: 100px;
 }
 
-notes{  border: 1px solid darkblue;
-  padding: 10px;
+href { 
+     font size: 45px;
+     color: yellow;
 }
 
