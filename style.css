@@ -21,4 +21,8 @@ div{
   width: 200px;
   height: 200px;
  }
+person_image {
+    width: 100%;
+    height: auto;
+}
 
