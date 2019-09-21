@@ -30,8 +30,6 @@ img {
 }
 
 .day {
-   border-radius: 8px;
-    height: 150px;
-    width: 80px;
-    transform: rotate(270deg);
+   border-color: red;
+}
 
