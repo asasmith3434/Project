@@ -29,7 +29,7 @@ img {
     transform: rotate(270deg);
 }
 
-"day" {
+class id= "day" {
    border-radius: 8px;
     height: 150px;
     width: 80px;
