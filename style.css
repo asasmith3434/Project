@@ -55,20 +55,20 @@ img {
 }
 
 .reading:hover{
-  background-color: pink;
+  background-color: white;
 }
 
 h1:hover{
-  background-color: pink;
+  background-color: red;
 }
 .prep box:hover{
-  background-color: pink;
+  background-color: yellow;
 }
 .username:hover{
-  background-color: pink;
+  background-color: orange;
 }
 .assignment-label:hover{
-  background-color: pink;
+  background-color: white;
 }
     
 
