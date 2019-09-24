@@ -50,9 +50,8 @@ img {
 .prep-box{
     background: #0398fc;
 }
-
-.skip this lab{
-     background:#f803fc;
+h1:hover{
+  background-color: yellow;
 }
 
 
