@@ -50,7 +50,7 @@ img {
 .prep-box{
     background: #0398fc;
 }
-body:hover{
+.username:hover, .reading:hover{
   background-color: pink;
 }
 
