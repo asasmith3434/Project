@@ -9,6 +9,8 @@ header {
         color: red;
         font-size: 60px;
     text-decoration: underline;
+    a:hover{color:red
+    }
 
 }
 h1 {
