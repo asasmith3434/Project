@@ -31,6 +31,9 @@ img {
 
 .day {
    border-style: dotted;
-   background-color: green;
+   background-color: #cffc03;
+}
+.reading{ 
+    background-color: #03fc94;
 }
 
