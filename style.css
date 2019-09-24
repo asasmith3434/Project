@@ -71,4 +71,9 @@ h1:hover{
   background-color: white;
 }
     
-
+.person_info{
+  text-align:center;
+          color: red;
+    font-size: 30px;
+    background-color: yellow;
+}
