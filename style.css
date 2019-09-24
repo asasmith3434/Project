@@ -54,6 +54,21 @@ img {
   background-color: pink;
 }
 
+.reading:hover{
+  background-color: pink;
+}
 
+h1:hover{
+  background-color: pink;
+}
+.prep box:hover{
+  background-color: pink;
+}
+.username:hover{
+  background-color: pink;
+}
+.assignment-label:hover{
+  background-color: pink;
+}
     
 
