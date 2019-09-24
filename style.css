@@ -50,7 +50,7 @@ img {
 .prep-box{
     background: #0398fc;
 }
-.username:hover, .reading:hover{
+.grade:hover{
   background-color: pink;
 }
 
