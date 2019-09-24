@@ -50,7 +50,7 @@ img {
 .prep-box{
     background: #0398fc;
 }
-h1:hover{
+body:hover{
   background-color: yellow;
 }
 
