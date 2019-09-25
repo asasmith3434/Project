@@ -1,1 +1,109 @@
+body{
+background-image: url("catgif.gif");
 
+}
+
+header {
+    padding: 60px;
+    background: #labc9c;
+        color: red;
+        font-size: 60px;
+    text-decoration: underline;
+    a:hover{color:red
+    }
+
+}
+h1 {
+   text-align:center;
+          color: red;
+     font-size: 90px;
+    
+}
+div{
+    text-align: center;
+
+
+ }
+img {
+  border-radius: 8px;
+    height: 100px;
+    width: 80px;
+    transform: rotate(270deg);
+}
+
+.day {
+   border-style: dotted;
+   background-color: #cffc03;
+}
+.reading{ 
+    background-color: #03fc94;
+}
+.assignment-label{
+    background-color: #03fcc2;
+}
+.username{
+    background: #f4fc03;
+}
+.grade{
+    background: #03dffc;
+}
+.prep-box{
+    background: #0398fc;
+}
+.grade:hover{
+  background-color: pink;
+}
+
+.reading:hover{
+  background-color: white;
+}
+
+h1:hover{
+  background-color: blue;
+}
+.prep box:hover{
+  background-color: yellow;
+}
+.username:hover{
+  background-color: orange;
+}
+.assignment-label:hover{
+  background-color: white;
+}
+    
+.assignment_form{
+  text-align:center;
+          color: red;
+    font-size: 30px;
+    background-color: yellow;
+}
+.assignment_form{
+  text-align:center;
+          color: red;
+    font-size: 30px;
+    background-color: yellow;
+}
+.assignment_title{
+  text-align:center;
+          color: red;
+    font-size: 30px;
+    background-color: yellow;
+}
+.promt{
+  text-align:center;
+          color: red;
+    font-size: 30px;
+    background-color: yellow;
+}
+.grade-table{
+  text-align:center;
+          color: red;
+    font-size: 30px;
+    background-color: yellow;
+}
+.view_text{
+  text-align:center;
+          color: red;
+    font-size: 30px;
+    background-color: yellow;
+}
