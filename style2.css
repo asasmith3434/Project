@@ -35,5 +35,5 @@ body > div.day-box.PREP{
     height: 200px;
     width: 200px;
     background-color:pink;
-    float: center;
+    float: inherit;
 }
