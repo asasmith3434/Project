@@ -113,6 +113,11 @@ body > div.assignment-title {
     background-color:#ADD8E6;
     border-radius: 10px;
 }
+body > form > div.question {
+    background-color: #B0E0E6;
+    width: 500px;
+    border-radius: 10px;
+}
     
 
 
