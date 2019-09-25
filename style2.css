@@ -42,7 +42,7 @@ img {
 body > div.day-box.PREP{ 
     height: 200px;
     width: 400px;
-    background-color:##b3ffff;
+    background-color:#ccffff;
     border-radius: 25px;
     margin: auto;
 }
@@ -50,7 +50,7 @@ body > div.day-box.PREP{
 body > div.day-box.CURRENT{
     height: 200px;
     width: 400px;
-    background-color: #99ffff;
+    background-color:#ccf2ff ;
     border-radius: 25px;
     margin: auto;
     
@@ -59,14 +59,14 @@ body > div.day-box.CURRENT{
 body > div:nth-child(8){
     height:310px;
     width:400px;
-    background-color:#80ffff;
+    background-color:#cce6ff;
     border-radius: 10px;
     margin: auto;
 }
 body > div:nth-child(9){
     height: 300px;
     width: 400px;
-    background-color:#66ffff;
+    background-color:#ccd9ff;
     border-radius: 10px;
     margin: auto;
 }
@@ -74,7 +74,7 @@ body > div:nth-child(9){
 body > div:nth-child(10){
     height: 250px;
     width: 400px;
-    background-color:#4dffff;
+    background-color:#ccccff;
     border-radius: 10px;
     margin: auto;
 }
@@ -82,21 +82,21 @@ body > div:nth-child(10){
 body > div:nth-child(11){
     height: 300px;
     width: 400px;
-    background-color:#33ffff;
+    background-color:#d9ccff;
     border-radius: 10px;
     margin: auto;
 }
 body > div:nth-child(12){
     height: 120px;
     width: 400px;
-    background-color: #1affff;
+    background-color:#e6ccff;
     border-radius: 10px;
     margin: auto;
 }
 body > div:nth-child(13){
     height: 50px;
     width: 400px;
-    background-color:#00ffff;
+    background-color:#f2ccff;
     border-radius: 10px;
     margin: auto;
 }
