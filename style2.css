@@ -52,6 +52,7 @@ body > div.day-box.CURRENT{
     width: 400px;
     background-color: #4682B4;
     border-radius: 25px;
+    margin: auto;
     
 }
 
@@ -60,12 +61,14 @@ body > div:nth-child(8){
     width:400px;
     background-color:#B0C4DE;
     border-radius: 10px;
+    margin: auto;
 }
 body > div:nth-child(9){
     height: 300px;
     width: 400px;
     background-color:#ADD8E6;
     border-radius: 10px;
+    margin: auto;
 }
 
 body > div:nth-child(10){
@@ -73,6 +76,7 @@ body > div:nth-child(10){
     width: 400px;
     background-color:#B0E0E6;
     border-radius: 10px;
+    margin: auto;
 }
 
 body > div:nth-child(11){
@@ -80,24 +84,28 @@ body > div:nth-child(11){
     width: 400px;
     background-color:#87CEFA;
     border-radius: 10px;
+    margin: auto;
 }
 body > div:nth-child(12){
     height: 120px;
     width: 400px;
     background-color:#87CEEB;
     border-radius: 10px;
+    margin: auto;
 }
 body > div:nth-child(13){
     height: 50px;
     width: 400px;
     background-color:#6495ED;
     border-radius: 10px;
+    margin: auto;
 }
 body > div:nth-child(6){
     background-color: #6495ED;
     height: 200px;
     border-radius: 25px;
     width: 1050px;
+    margin: auto;
    
 }
 
@@ -106,25 +114,30 @@ body > table:nth-child(7){
     width: 300px;
     background-color:#87CEEB;
     border-radius: 10px;
+    margin: auto;
 }
 body > div.header > div.nav {
     width: 400px;
     background-color:#5F9EA0;
     border-radius: 25px;
+    margin: auto;
 }
 body > div.assignment-title {
     width: 400px;
     background-color:#ADD8E6;
     border-radius: 10px;
+    margin: auto;
 }
 body > form {
     background-color: #B0E0E6;
     width: 700px;
     border-radius: 10px;
+    margin: auto;
 }
 body > table:nth-child(11) {
     background-color: #5F9EA0;
     border-radius: 10px;
+    margin: auto;
 }
     
 
