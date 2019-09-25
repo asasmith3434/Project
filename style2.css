@@ -98,6 +98,17 @@ body > table:nth-child(7){
     background-color:#87CEEB;
     border-radius: 10px;
 }
+body > div.header > div.nav {
+    width: 400px;
+    background-color:#5F9EA0;
+    border-radius: 25px;
+}
+body > div.assignment-title {
+    width: 400px;
+    background-color:#ADD8E6;
+    border-radius: 10px;
+}
+    
 
 
 
