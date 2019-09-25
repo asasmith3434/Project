@@ -26,10 +26,8 @@ h1 {
     text-decoration-style: wavy;
 }
 div{
-    text-align: center;
-    float: center;
-    text-decoration-style: wavy;
-
+    
+    font-family: Stencil Std, fantasy;  
 
  }
 img {
