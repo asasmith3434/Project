@@ -32,7 +32,6 @@ div{
     
     font-family: Stencil Std, fantasy;
     text-align: center;
-    text-decoration: none;
 
  }
 img {
@@ -49,6 +48,7 @@ body > div.day-box.PREP{
     border-radius: 25px;
     margin: auto;
     padding: 10px;
+    border-decoration-style: wavy;
   
 }
 
