@@ -43,6 +43,7 @@ body > div.day-box.CURRENT{
     height: 200px;
     width: 200px;
     background-color: #4682B4;
+    border-style: dotted;
     
 }
 
@@ -50,33 +51,39 @@ body > div:nth-child(8){
     height:310px;
     width:200px;
     background-color:#B0C4DE;
+    border-style: dotted;
 }
 body > div:nth-child(9){
     height: 300px;
     width: 200px;
     background-color:#ADD8E6;
+    border-style: dotted;
 }
 
 body > div:nth-child(10){
     height: 250px;
     width: 200px;
     background-color:#B0E0E6;
+    border-style: dotted;
 }
 
 body > div:nth-child(11){
     height: 300px;
     width: 200px;
     background-color:#87CEFA;
+    border-style: dotted;
 }
 body > div:nth-child(12){
 height: 120px;
     width: 200px;
     background-color:#87CEEB;
+    border-style: dotted
 }
 body > div:nth-child(13){
 height: 50px;
     width: 200px;
     background-color:#6495ED;
+    border-style: dotted;
 }
 
 
