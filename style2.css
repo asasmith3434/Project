@@ -31,8 +31,7 @@ img {
     transform: rotate(270deg);
 }
 
-.day-box.PREP{
-    height 100px;
-     width: 200px;
-    background-color: blue;
-}
+body > div.day-box.PREP{ 
+    height: 100px;
+    width: 80px;
+    background-color:pink
