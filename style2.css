@@ -73,6 +73,8 @@ body > div:nth-child(11){
     border-radius: 25px;
 }
 body > div:nth-child(12){
+    height: 120px;
+    width: 400px;
     background-color:#87CEEB;
     border-radius: 25px;
 }
