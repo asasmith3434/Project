@@ -124,6 +124,7 @@ body > div:nth-child(6){
     width: 1050px;
     margin: auto;
     padding: 10px;
+    overflow: scroll;
    
 }
 
