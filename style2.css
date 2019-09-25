@@ -38,3 +38,35 @@ body > div.day-box.PREP{
     background-color:pink;
     float: inherit;
 }
+
+body > div.day-box.CURRENT{
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
+    float: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
