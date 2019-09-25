@@ -1,7 +1,9 @@
 body{
 background-image: url("background 3.jpg");
-    background-size: cover;
     background-position: 100%;
+    width: 1500px;
+    height: 1500px;
+    
     
 }
 
