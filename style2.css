@@ -52,13 +52,13 @@ body > div:nth-child(8){
     background-color:pink;
 }
 body > div:nth-child(9){
-    height: 200px;
+    height: 220px;
     width: 200px;
     background-color:yellow;
 }
 
 body > div:nth-child(10){
-    height: 200px;
+    height: 210px;
     width: 200px;
     background-color:pink;
 }
