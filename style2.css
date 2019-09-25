@@ -66,6 +66,7 @@ body > div:nth-child(8){
     background-color:#cce6ff;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 body > div:nth-child(9){
     height: 300px;
@@ -73,6 +74,7 @@ body > div:nth-child(9){
     background-color:#ccd9ff;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 
 body > div:nth-child(10){
@@ -81,6 +83,7 @@ body > div:nth-child(10){
     background-color:#ccccff;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 
 body > div:nth-child(11){
@@ -89,6 +92,7 @@ body > div:nth-child(11){
     background-color:#d9ccff;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 body > div:nth-child(12){
     height: 120px;
@@ -96,6 +100,7 @@ body > div:nth-child(12){
     background-color:#e6ccff;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 body > div:nth-child(13){
     height: 50px;
@@ -103,6 +108,7 @@ body > div:nth-child(13){
     background-color:#f2ccff;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 body > div:nth-child(6){
     background-color:#00ffff ;
@@ -110,6 +116,7 @@ body > div:nth-child(6){
     border-radius: 25px;
     width: 1050px;
     margin: auto;
+    padding: 10px;
    
 }
 
@@ -119,6 +126,7 @@ body > table:nth-child(7){
     background-color:#ccffff;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 body > div.header > div.nav {
     width: 400px;
