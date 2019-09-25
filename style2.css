@@ -167,6 +167,7 @@ body > table:nth-child(10) {
 }
 body > table {
     background: #ccffff;
+    margin: auto;
 }
    
 
