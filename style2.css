@@ -34,4 +34,5 @@ img {
 body > div.day-box.PREP{ 
     height: 100px;
     width: 80px;
-    background-color:pink
+    background-color:pink;
+}
