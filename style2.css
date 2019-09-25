@@ -22,7 +22,7 @@ h1 {
    text-align:center;
           color: blue;
      font-size: 90px;
-     text-decoration-line: overline underline;
+     text-decoration-line: underline;
     text-decoration-style: wavy;
 }
 div{
@@ -44,6 +44,7 @@ body > div.day-box.PREP{
     width: 400px;
     background-color:#5F9EA0;
     border-radius: 25px;
+    margin: auto;
 }
 
 body > div.day-box.CURRENT{
