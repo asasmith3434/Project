@@ -52,19 +52,19 @@ body > div:nth-child(8){
     background-color:pink;
 }
 body > div:nth-child(9){
-    height: 220px;
+    height: 300px;
     width: 200px;
     background-color:yellow;
 }
 
 body > div:nth-child(10){
-    height: 210px;
+    height: 250px;
     width: 200px;
     background-color:pink;
 }
 
 body > div:nth-child(11){
-    height: 250px;
+    height: 300px;
     width: 200px;
     background-color:yellow;
 }
