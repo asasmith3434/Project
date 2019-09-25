@@ -35,48 +35,48 @@ img {
 body > div.day-box.PREP{ 
     height: 200px;
     width: 200px;
-    background-color:pink;
+    background-color:#5F9EA0;
     float: inherit;
 }
 
 body > div.day-box.CURRENT{
     height: 200px;
     width: 200px;
-    background-color:yellow;
+    background-color: #4682B4;
     
 }
 
 body > div:nth-child(8){
     height:310px;
     width:200px;
-    background-color:pink;
+    background-color:#B0C4DE;
 }
 body > div:nth-child(9){
     height: 300px;
     width: 200px;
-    background-color:yellow;
+    background-color:#ADD8E6;
 }
 
 body > div:nth-child(10){
     height: 250px;
     width: 200px;
-    background-color:pink;
+    background-color:#B0E0E6;
 }
 
 body > div:nth-child(11){
     height: 300px;
     width: 200px;
-    background-color:yellow;
+    background-color:#87CEFA;
 }
 body > div:nth-child(12){
 height: 120px;
     width: 200px;
-    background-color:pink;
+    background-color:#87CEEB;
 }
 body > div:nth-child(13){
 height: 50px;
     width: 200px;
-    background-color:yellow;
+    background-color:#6495ED;
 }
 
 
