@@ -141,7 +141,7 @@ body > table:nth-child(11) {
 body > div.view_text {
     width: auto;
     height: auto;
-    border-radius: 10px;
+    border-radius: 100px;
 }
    
 
