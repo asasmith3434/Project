@@ -8,13 +8,13 @@ header {
         color: red;
         font-size: 60px;
     text-decoration: underline;
-    a:hover{color:red
+    a:hover{color:blue;
     }
 
 }
 h1 {
    text-align:center;
-          color: red;
+          color: cyan;
      font-size: 90px;
     
 }
@@ -36,7 +36,6 @@ body > div.day-box.PREP{
     width: 400px;
     background-color:#5F9EA0;
     border-radius: 25px;
-    postition: center;
 }
 
 body > div.day-box.CURRENT{
@@ -44,7 +43,6 @@ body > div.day-box.CURRENT{
     width: 400px;
     background-color: #4682B4;
     border-radius: 25px;
-    postition: center;
     
 }
 
