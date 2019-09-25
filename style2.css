@@ -27,7 +27,8 @@ h1 {
 }
 div{
     
-    font-family: Stencil Std, fantasy;  
+    font-family: Stencil Std, fantasy;
+    align-text: center;
 
  }
 img {
@@ -137,7 +138,8 @@ body > table:nth-child(11) {
     border-radius: 10px;
     margin: auto;
 }
-    
+
+   
 
 
 
