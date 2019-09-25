@@ -165,6 +165,9 @@ body > table:nth-child(10) {
     background-color: #f2ccff;
     width: 300px;
 }
+body > table {
+    background: #ccffff;
+}
    
 
 
