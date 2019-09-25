@@ -48,7 +48,7 @@ body > div.day-box.PREP{
     border-radius: 25px;
     margin: auto;
     padding: 10px;
-    border-decoration-style: wavy;
+    text-decoration: none;
   
 }
 
