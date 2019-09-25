@@ -47,6 +47,7 @@ body > div.day-box.PREP{
     background-color:#ccffff;
     border-radius: 25px;
     margin: auto;
+    padding: 10px;
 }
 
 body > div.day-box.CURRENT{
@@ -55,6 +56,7 @@ body > div.day-box.CURRENT{
     background-color:#ccf2ff ;
     border-radius: 25px;
     margin: auto;
+    padding: 10px;
     
 }
 
