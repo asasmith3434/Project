@@ -31,73 +31,8 @@ img {
     transform: rotate(270deg);
 }
 
-.day {
-   border-style: dotted;
-   background-color: #cffc03;
-}
-.reading{ 
-    background-color: #03fc94;
-}
-.assignment-label{
-    background-color: #03fcc2;
-}
-.username{
-    background: #f4fc03;
-}
-.grade{
-    background: #03dffc;
-}
-.prep-box{
-    background: #0398fc;
-}
-.grade:hover{
-  background-color: pink;
-}
-
-h1:hover{
-  background-color: blue;
-}
-.prep box:hover{
-  background-color: yellow;
-}
-.username:hover{
-  background-color: orange;
-}
-}
-    
-.assignment_form{
-  text-align:center;
-          color: red;
-    font-size: 30px;
-    background-color: yellow;
-}
-.assignment_form{
-  text-align:center;
-          color: red;
-    font-size: 30px;
-    background-color: yellow;
-}
-.assignment_title{
-  text-align:center;
-          color: red;
-    font-size: 30px;
-    background-color: yellow;
-}
-.promt{
-  text-align:center;
-          color: red;
-    font-size: 30px;
-    background-color: yellow;
-}
-.grade-table{
-  text-align:center;
-          color: red;
-    font-size: 30px;
-    background-color: yellow;
-}
-.view_text{
-  text-align:center;
-          color: red;
-    font-size: 30px;
-    background-color: yellow;
+.day-box{
+    height 100px;
+     width: 200px;
+    background-color: blue;
 }
