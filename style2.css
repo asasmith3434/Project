@@ -1,6 +1,5 @@
 body{
 background-image: url("");
-float: center;
 }
 
 header {
@@ -21,7 +20,7 @@ h1 {
 }
 div{
     text-align: center;
-    box-align: center;
+    float: center;
 
 
  }
