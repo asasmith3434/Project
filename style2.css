@@ -143,7 +143,10 @@ body > table:nth-child(11) {
     border-radius: 10px;
     margin: auto;
 }
-
+body > table:nth-child(10) {
+    background-color: #f2ccff;
+    width: 300px;
+}
    
 
 
