@@ -22,7 +22,8 @@ h1 {
    text-align:center;
           color: blue;
      font-size: 90px;
-     text-decoration-style: wavy;
+     text-decoration-line: overline underline;
+    text-decoration-style: wavy;
 }
 div{
     text-align: center;
