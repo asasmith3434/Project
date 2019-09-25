@@ -86,9 +86,15 @@ body > div:nth-child(13){
 }
 body > div:nth-child(6){
     background-color: #6495ED;
+   
 }
 
-
+body > table:nth-child(7){
+     height: 50px;
+    width: 100px;
+    background-color:#6495ED;
+    border-radius: 25px;
+}
 
 
 
