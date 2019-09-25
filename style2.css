@@ -54,10 +54,6 @@ img {
   background-color: pink;
 }
 
-.reading:hover{
-  background-color: white;
-}
-
 h1:hover{
   background-color: blue;
 }
@@ -66,9 +62,6 @@ h1:hover{
 }
 .username:hover{
   background-color: orange;
-}
-.assignment-label:hover{
-  background-color: white;
 }
     
 .assignment_form{
